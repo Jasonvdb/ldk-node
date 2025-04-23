@@ -1,4 +1,4 @@
-# LDK Node
+# LDK Node (fork)
 
 [![Crate](https://img.shields.io/crates/v/ldk-node.svg?logo=rust)](https://crates.io/crates/ldk-node)
 [![Documentation](https://img.shields.io/static/v1?logo=read-the-docs&label=docs.rs&message=ldk-node&color=informational)](https://docs.rs/ldk-node)
